@@ -38,8 +38,36 @@ PALAVRAS_CHAVE = [
     "travesseiro",
     "garrafa de café tramontina",
     "bowl",
-    "cupom",
-    "a"
+    "balde",
+    "espremedor de limão",
+    "colher de sorvete",
+    "organizador de talheres",
+    "pano de chão",
+    "copo medidor e colheres de medida",
+    "saca rolhas",
+    "forma de pizza",
+    "tigelas bowl alumínio",
+    "jarra de suco",
+    "cesto de roupa suja",
+    "galheteiro manhattan",
+    "apoio para bucha e detergente",
+    "coador de café inox",
+    "potes herméticos com medidor",
+    "organizador de ovos",
+    "taças caneladas",
+    "forma de bolo",
+    "garrafa de café tramontina",
+    "escorredor de louça",
+    "travesseiros",
+    "mop",
+    "jogo tapete para banheiro",
+    "tapete",
+    "fronhas",
+    "edredom",
+    "mondial turbo glass",
+    "leonora tramontina",
+    "lençol casal buddemeyer"
+    
 ]
 # (o matching abaixo ignora case)
 
