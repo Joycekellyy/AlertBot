@@ -25,7 +25,19 @@ CANAIS = [
     "https://t.me/ctofertascelulares",   # repetido na sua lista original (mantido)
     "https://t.me/Fraguas84Oficial",
     "https://t.me/fafaofertas",
-    "https://t.me/testeAlertBotizinho"
+    "https://t.me/testeAlertBotizinho",
+    "https://t.me/gtOFERTAS",
+    "https://t.me/ofertaskabum",
+    "https://t.me/descontos_top",
+    "https://t.me/ofertasthautec",
+    "https://t.me/descontoemgames",
+    "https://t.me/descontosmaebebe",
+    "https://t.me/ktechpromocoes",
+    "https://t.me/PromosdaMih",
+    "https://t.me/smarteletrobarato",
+    "https://t.me/cupons_desconto",
+    "@santostecpromo",
+    "https://t.me/opatanapromo"
 ]
 
 # ========== PALAVRAS-CHAVE ==========
@@ -66,9 +78,28 @@ PALAVRAS_CHAVE = [
     "edredom",
     "mondial turbo glass",
     "leonora tramontina",
-    "lençol casal buddemeyer"
-    
+    "lençol casal buddemeyer",
+    "ergonômico",
+    "ergonômica",
+    "Ergonomica",
+    "nimbo",
+    "Panasonic Máquina de Lavar",
+    "atlas atenas glass",
+    "Colchão Queen",
+    "Micro-ondas",
+    "Panificadora mondial",
+    "Purificador de Água",
+    "MasterSteam",
+    "Air Fryer Gourmet Philco",
+    "Chaleira Elétrica",
+    "Lorenzetti Loren Shower",
+    "Sanduicheira ",
+    "Aspirador",
+    "Criado-Mudo",
+    "tv samsumg",
+    "tv 50''", 
 ]
+
 # (o matching abaixo ignora case)
 
 # ========== INICIALIZA CLIENTES ==========
@@ -136,4 +167,5 @@ async def main():
 if __name__ == "__main__":
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
+
     loop.run_until_complete(main())
